@@ -1,0 +1,25 @@
+1. How do I login to Vidal Health App?
+A: Vidal Health App can be logged with Via Social Media Logins such as Google and Facebook Sign on or you may sign up with your email id and Mobile number.
+
+2. Is mobile number and email id Mandatory to Sign In, if Yes, why so?
+A: Yes, we require your mobile number and email id for sign in, for us to 
+a) Identify you and
+b) send timely communications to you on the services booked by you
+
+3. Can I Login to multiple devices using my credentials?
+A: Yes, you can login to a maximum of 6 devices with your credentials.
+
+4. I am unable to get my registration OTP, why? 
+A: Non delivery/delayed delivery of  SMS is may happen due to registration of a number under NDNC/NDND, we would request you to kindly de-register yourself and try again, in case the issue persists contact us on customerservice@vidalhealth.com.
+
+5. How can I set my password?
+A: To set a password kindly Sign Up > key in your email id & Phone No > verify with OTP > Enter Your name & Set Password.
+
+6. How can I retrieve my forgotten password?
+A: To retrieve forgotten passwords kindly go to Sign In > Enter your registered mobile number > Click on forgot Password (below Type your password) and you will get an OTP, enter the OTP to reset your password.
+
+7. I am unable to login/Sign up, what do I do?
+A: Kindly contact us on customerservice@vidalhealth.com with details of error message.
+
+8. I had initially registered using Android phone, are the same credentials valid on my new iPhone? (Vice Versa)
+A: Yes, you can login across android/iOS devices with the same credentials.
